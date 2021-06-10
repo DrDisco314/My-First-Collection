@@ -9,7 +9,7 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-#url: https://collectionbuilder.github.io 
+url: https://drdisco314.github.io/My-First-Collection/ 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
@@ -33,7 +33,7 @@ author: CollectionBuilder
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata 
+metadata: cat-metadata 
 
 ##########
 # GOOGLE SERVICES [optional!]
