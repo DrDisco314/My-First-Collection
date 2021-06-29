@@ -30,7 +30,7 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 ##########
 # TIMELINE PAGE
 #
-year-navigation: "600 BCE;550 BCE;500 BCE;450 BCE;400 BCE; 350 BCE; 300 BCE; 250 BCE; 200 BCE; 150BCE" # set years to appear in dropdown nav, leave blank to auto gen
+year-navigation: #"600 BCE;550 BCE;500 BCE;450 BCE;400 BCE; 350 BCE; 300 BCE; 250 BCE; 200 BCE; 150BCE" # set years to appear in dropdown nav, leave blank to auto gen
 year-nav-increment: 50 # set increments when auto gen nav years
 
 ##########
